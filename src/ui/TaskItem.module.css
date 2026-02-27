@@ -1,0 +1,35 @@
+.task {
+  list-style-type: none;
+  width: 300px;
+  padding: 20px;
+  border: 4px solid black;
+  cursor: pointer;
+}
+
+.selected {
+  border-color: blue;
+}
+
+.priority0 {
+  background-color: #ffffff;
+}
+
+.priority1 {
+  background-color: #ffd7b5;
+}
+
+.priority2 {
+  background-color: #ffb38a;
+}
+
+.priority3 {
+  background-color: #ff9248;
+}
+
+.priority4 {
+  background-color: #ff6700;
+}
+
+.completed {
+  text-decoration-line: line-through;
+}

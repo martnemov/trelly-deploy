@@ -1,0 +1,33 @@
+.aside {
+  width: 20rem;
+  border: 4px solid #374151;
+  border-radius: 0.5rem;
+  margin: 1rem 0;
+  padding: 1.25rem;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.placeholder {
+  color: #9ca3af;
+}
+
+.field {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.fieldLabel {
+  font-weight: 500;
+  color: #9ca3af;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
